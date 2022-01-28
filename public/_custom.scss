@@ -2,3 +2,13 @@
 // Option A: Include all of Bootstrap
 
 @import "node_modules/bootstrap/scss/bootstrap";
+
+.text-center {
+  text-align: center !important;
+}
+
+.list-group {
+  width: auto;
+  max-width: 460px;
+  margin: 4rem auto;
+}

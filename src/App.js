@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./components/Header";
 import Inputbar from "./components/Inputbar";
-import { Routes, Route, Link } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import Signup from "./components/Signup";
 import Notes from "./components/Notes";
 import Faq from "./components/Faq";
